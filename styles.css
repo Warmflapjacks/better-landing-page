@@ -2,9 +2,12 @@
 Photo by <a href="https://unsplash.com/es/@osmanrana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Osman Rana</a> on <a href="https://unsplash.com/photos/xhpMNieqBwA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   */
 
-  body {
-    height: 100vh;
-    margin: 0;
-    background-image: url(/images/osman-rana-xhpMNieqBwA-unsplash.jpg);
-    background-size: cover;
-  }
+body {
+  height: 100vh;
+  margin: 0;
+  background-image: url(/images/osman-rana-xhpMNieqBwA-unsplash.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Signika', sans-serif;
+}
