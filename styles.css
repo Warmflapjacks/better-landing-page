@@ -11,3 +11,37 @@ body {
   flex-direction: column;
   font-family: 'Signika', sans-serif;
 }
+
+.header {
+  margin: 10px 30px 10px 30px;
+  font-size: 18px;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 40px;
+  font-weight: bolder;
+  color: #f9faf8;
+}
+
+.left-links {
+  margin-right: auto;
+}
+
+.right-links {
+  margin-left: auto;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  color: #e5e7eb;
+}
