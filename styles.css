@@ -66,6 +66,17 @@ ul {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  gap: 10px;
+}
+
+button {
+  background-color: #f7601b;
+  color:#f9faf8;
+  font-size: 18px;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-color: black;
 }
 
 .main-text {
@@ -80,8 +91,7 @@ ul {
 }
 
 .sh-right-links {
-  margin-left: 5%;
-  display: flex;
+  
 }
 
 .footer {
