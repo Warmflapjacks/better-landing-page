@@ -5,4 +5,6 @@ Photo by <a href="https://unsplash.com/es/@osmanrana?utm_source=unsplash&utm_med
   body {
     height: 100vh;
     margin: 0;
+    background-image: url(/images/osman-rana-xhpMNieqBwA-unsplash.jpg);
+    background-size: cover;
   }
