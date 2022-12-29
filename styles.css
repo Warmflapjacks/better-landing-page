@@ -160,6 +160,42 @@ button {
   padding-right: 5%;
 }
 
+.cta-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-color: #1f2937b4;
+  border-radius: 10px;
+}
+
+.cta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  color: #e5e7eb;
+  margin-right: 50px;
+}
+
+.cta-text {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.cta-signup button {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .footer {
   margin-top: auto;
   display: flex;
