@@ -2,7 +2,7 @@
 body {
   height: 100vh;
   margin: 0;
-  background-image: url(/images/osman-rana-xhpMNieqBwA-unsplash.jpg);
+  background-image: url(../images/osman-rana-xhpMNieqBwA-unsplash.jpg);
   background-size: cover;
   display: flex;
   flex-direction: column;
